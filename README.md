@@ -19,6 +19,12 @@ This is my OMR engine, equipped with the ability to score and recognize bubble t
 [Back to top](#table-of-contents) <br>
 
 ### 
+
+| **🖌️ Color Code 🖌️** |
+|:--:| 
+| ![answers](https://github.com/nshpam/OMR/assets/97942535/51e37f2e-333d-45dc-a78a-248abc947891) |
+|_:green_square: = correct answer <br> :red_square: = wrong answer <br> :blue_square: = correct solution for wrong answer <br> :yellow_square: = duplicate, fade answer, no answer_|
+
 | **📝✨ 25 marks ✨📝** |
 |:--:| 
 | ![Ans_25marks](https://github.com/nshpam/OMR/assets/97942535/6579b18e-2a5e-4198-a9cd-92bac3416bbd) |
@@ -59,9 +65,3 @@ This is my OMR engine, equipped with the ability to score and recognize bubble t
 |:--:| 
 | ![Ans_100marks_1](https://github.com/nshpam/OMR/assets/97942535/c15650c0-4de2-4489-ad86-e8b558c3087d) |
 |_The answer paper with 100 marks._|
-
-| **🖌️ Color Code 🖌️** |
-|:--:| 
-| ![answers](https://github.com/nshpam/OMR/assets/97942535/51e37f2e-333d-45dc-a78a-248abc947891) |
-|_:green_square: = correct answer <br> :red_square: = wrong answer <br> :blue_square: = correct solution for wrong answer <br> :yellow_square: = duplicate, fade answer, no answer_|
-
