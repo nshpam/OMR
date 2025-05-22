@@ -5,16 +5,15 @@ This is my OMR engine, equipped with the ability to score and recognize bubble t
 # Table of Contents
 - [Lessons Learned 🎓](#lessons-learned-) <br>
 - [Screenshots 📷](#screenshots-) <br>
-- [Contributor 👩‍💻👨‍💻](#contributor-) <br>
 
 ## Lessons Learned 🎓 
 [Back to top](#table-of-contents) <br>
-🧠 Gaining expertise in image processing and pattern recognition.
-🎯 Ensuring accurate scanning and scoring through calculating algorithm.
-🧩 Developing problem-solving skills to tackle complex challenges in OMR technology.
-🎯 Thorough testing and validation to ensure accuracy and reliability.
-👥 Collaboration with team members and stakeholders for effective project management.
-📚 Acquiring deep domain knowledge in OMR technology and its applications.
+- 🧠 Gaining expertise in image processing and pattern recognition.
+- 🎯 Ensuring accurate scanning and scoring through calculating algorithm.
+- 🧩 Developing problem-solving skills to tackle complex challenges in OMR technology.
+- 🎯 Thorough testing and validation to ensure accuracy and reliability.
+- 👥 Collaboration with team members and stakeholders for effective project management.
+- 📚 Acquiring deep domain knowledge in OMR technology and its applications.
 
 ## Screenshots 📷
 [Back to top](#table-of-contents) <br>
